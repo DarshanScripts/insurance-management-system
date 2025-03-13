@@ -53,15 +53,6 @@ insurance-management-system/
 - **AJAX** – Dynamic interactions
 - **HTML, CSS, JavaScript** – Frontend development
 
-## Contribution Guidelines
-
-Contributions are welcome! Follow these steps:
-
-1. **Fork the Repository**
-2. **Create a Branch** (`feature-xyz`)
-3. **Commit Your Changes**
-4. **Push to Your Fork & Submit a PR**
-
 ## License
 
 This project is licensed under the **MIT License**.
