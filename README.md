@@ -17,7 +17,7 @@ The **Insurance Management System** is a web-based application built using PHP t
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/DarshanScripts/InsuranceProject.git
+   git clone https://github.com/DarshanScripts/insurance-management-system.git
    ```
 2. **Set Up the Database**
    - Import the provided SQL file into MySQL.
@@ -25,12 +25,12 @@ The **Insurance Management System** is a web-based application built using PHP t
 3. **Run the Project**
    - Place the project folder inside `htdocs` (for XAMPP) or `www` (for WAMP/LAMP).
    - Start Apache and MySQL services.
-   - Access the project via `http://localhost/InsuranceProject/`.
+   - Access the project via `http://localhost/insurance-management-system/`.
 
 ## Project Structure
 
 ```
-InsuranceProject/
+insurance-management-system/
 │── Index.php
 │── Login.php
 │── Logout.php
