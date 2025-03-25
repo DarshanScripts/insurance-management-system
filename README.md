@@ -72,11 +72,6 @@ insurance-management-system/
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 👨‍💻 Author
 Developed by **Darshan Shah**. Connect with me:
 
